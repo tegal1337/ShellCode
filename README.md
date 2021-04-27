@@ -16,4 +16,4 @@
 <p>pip install cowsay</p>
 <b>Windows</b>
 <p>For Windows Using Python Or Other</p>
-![](https://github.com/tegal1337/ShellCode/blob/main/shellcode.png)
+<img src=https://github.com/tegal1337/ShellCode/blob/main/shellcode.png>
